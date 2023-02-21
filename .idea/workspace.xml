@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23c631df-633a-461f-bb0c-8a6dcdc2084e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XE6B2ouJcOFBDJw2JX757nqL2I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="ts.external.directory.path" value="D:\林志昊的项目\lab1-master\client\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23c631df-633a-461f-bb0c-8a6dcdc2084e" name="Default Changelist" comment="" />
+      <created>1580598768201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580598768201</updated>
+      <workItem from="1580598771516" duration="1634000" />
+      <workItem from="1580653503984" duration="6926000" />
+      <workItem from="1580686975388" duration="1913000" />
+      <workItem from="1580735628226" duration="8172000" />
+      <workItem from="1580832005219" duration="4111000" />
+      <workItem from="1580915109892" duration="12184000" />
+      <workItem from="1581007464893" duration="11799000" />
+      <workItem from="1581092350670" duration="8609000" />
+      <workItem from="1581182231298" duration="16228000" />
+      <workItem from="1581272268505" duration="1294000" />
+      <workItem from="1581283528971" duration="2547000" />
+      <workItem from="1581358708956" duration="11819000" />
+      <workItem from="1581480997209" duration="599000" />
+      <workItem from="1581482308447" duration="14830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#TSLint" timestamp="1580602696588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#TSLint/0.0.1920.1040@0.0.1920.1040" timestamp="1580602696588" />
+    <state x="1208" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581020115662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1208" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581020115662" />
+    <state x="1170" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580929226027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580929226027" />
+    <state x="8" y="199" key="SettingsEditor" timestamp="1580931199222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="8" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580931199222" />
+  </component>
+</project>
